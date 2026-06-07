@@ -2,7 +2,7 @@
 
 ### Live Application
 
-🔗 [[Add Vercel URL](https://factcheck-agent-gemini.vercel.app/)]
+🔗 [[ Vercel URL](https://factcheck-agent-gemini.vercel.app/)]
 
 ---
 
